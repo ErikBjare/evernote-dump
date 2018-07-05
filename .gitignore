@@ -11,8 +11,7 @@ evernote_dump/tags
 .project
 .pydevproject
 .settings/
-key
-__pycache__
+.*cache
 .idea
 # Created by https://www.gitignore.io/api/pycharm
 
